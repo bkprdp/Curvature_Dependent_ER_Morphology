@@ -13,4 +13,6 @@ where output_file_name is the user's choice of output file name, name_of_input_f
 The results will be stored in ODB format, which can be opened in ABAQUS CAE. 
 To get the strain energy, plot strain energy of whole model, which is stored in the history outputs.
 
+Due to size limitations, all inp files could not be shared here. Please visit https://drive.google.com/drive/folders/1B7I-TJ4DhxWylEKplIhhToyOjDsFGsyg?usp=drive_link to access input files of all cases presented in the article. 
+
 PS: To speed up the computations, you can use UMAT_xxx_Simplified.f instead of UMAT_xxx.f. This implementation has a simplified version of numerical integration.
